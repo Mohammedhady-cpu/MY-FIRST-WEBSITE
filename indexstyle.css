@@ -3,6 +3,7 @@ body{
 }
 h1 {
     text-align: center;
+    color: white;
     font-weight: bold;
     font-size: 100px;
     border:solid 10px white;
@@ -20,6 +21,7 @@ a{
 p{
     font-size: 30px;
     border:solid 2px red;
+    color: white;
     font-style: oblique;
     margin-top: 5px;
     text-align: center;
