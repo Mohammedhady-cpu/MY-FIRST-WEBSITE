@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 h1 {
     text-align: center;
@@ -12,13 +12,14 @@ h1 {
     padding: 3px;
 }
 a{
-    margin-left: 470px;
+    margin: 0;
     font-size: 50px;
     font-style: italic;
-    border-radius: 10px;
+    margin-left: 470px;;
     margin-top: 0;
+    margin-right: 0;
 }
-p{
+.formyself{
     font-size: 30px;
     border:solid 2px red;
     color: white;
@@ -27,4 +28,12 @@ p{
     text-align: center;
     padding: 5px;
     margin-bottom: 0;
+}
+.instagram{
+    margin: 0;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+    margin-right: 0;
+    padding:0;
 }
