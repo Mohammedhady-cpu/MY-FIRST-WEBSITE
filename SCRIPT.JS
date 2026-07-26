@@ -42,3 +42,22 @@ console.log(typeof (d+1));
 const langs=["العربية","الأنجليزية","الأيطالية","الفرنسية"]
 langs.push("اليابانية");
 console.log(langs);
+console.log(langs[0]);
+const person={
+    firstname:"mohammed",
+    id:1234,
+    adrress: "Damascus, Syria",
+
+}
+console.log("اهلاً "+person.firstname);
+const myname= "mohammed";
+const website= "mohammed.com";
+console.log(`my name is ${myname}
+and my website is ${website}`);
+window.addEventListener("resize", ()=>{
+    console.log("window resized");
+});
+const  element = document.createElement("h6");
+element.innerText = "hello world";
+document.body.appendChild(element);
+console.log(element);
