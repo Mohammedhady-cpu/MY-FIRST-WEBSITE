@@ -15,7 +15,7 @@ a{
     margin: 0;
     font-size: 50px;
     font-style: italic;
-    margin-left: 470px;;
+    margin-left: 470px;
     margin-top: 0;
     margin-right: 0;
 }
@@ -34,6 +34,12 @@ a{
     font-size: 50px;
     font-style: normal;
     font-weight: bold;
-    margin-right: 0;
+    align-items: center;
     padding:0;
+}
+#search-bar{
+    border :solid 2px white;
+    color: gray;
+    padding: 5px 0 5px 0;
+    margin:0;
 }
