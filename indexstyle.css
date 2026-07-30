@@ -47,4 +47,5 @@ a{
 img{
     float: right;
     border:solid 2px white;
+    margin: 0;
 }
