@@ -57,10 +57,6 @@ and my website is ${website}`);
 window.addEventListener("resize", ()=>{
     console.log("window resized");
 });
-const  element = document.createElement("h6");
-element.innerText = "hello world";
-document.body.appendChild(element);
-console.log(element);
 console.log(document.getElementsByClassName("mywebsite"));
 const instagram = document.getElementsByClassName("instagram");
 instagram[0].style.fontStyle = "italic";
@@ -74,5 +70,3 @@ const button = document.querySelector("#btn");
 button.addEventListener("click", ()=>{
     console.log("button clicked");
 });
-if (button.addEventListener>=15)
-    console.log("button clicked more than 15 times");
