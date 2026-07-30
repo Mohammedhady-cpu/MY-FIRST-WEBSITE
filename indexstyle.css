@@ -34,13 +34,9 @@ a{
     font-weight: bold;
     align-items: center;
     padding:0;
+    color: white;
 }
-#search-bar{
-    border :solid 2px white;
-    color: gray;
-    padding: 5px 0 5px 0;
-    margin:0;
-}
+
 .highlight{
     color: red;
 
