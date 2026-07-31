@@ -49,13 +49,8 @@ img{
 }
 #instagram-id{
     font-size: 50px;
+    color: white;
 }
 .insta{
     color: red;
-
-}
-.right{
-    text-align: left;
-    margin:0;
-    padding: 0;
 }
